@@ -1,0 +1,2894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="42.70147" lon="-83.25501">
+    <name>STOP SIGN</name>
+  </wpt>
+  <wpt lat="42.70089" lon="-83.25529">
+    <name>Speed limit: 72</name>
+  </wpt>
+  <wpt lat="42.70047" lon="-83.24609">
+    <name>Speed limit: None</name>
+  </wpt>
+  <wpt lat="42.69874" lon="-83.2424">
+    <name>Speed limit: 89</name>
+  </wpt>
+  <wpt lat="42.68536" lon="-83.2419">
+    <name>Speed limit: 80</name>
+  </wpt>
+  <wpt lat="42.68014" lon="-83.24599">
+    <name>Speed limit: 72</name>
+  </wpt>
+  <wpt lat="42.67988" lon="-83.24598">
+    <name>Speed limit: None</name>
+  </wpt>
+  <wpt lat="42.67844" lon="-83.24412">
+    <name>Speed limit: 72</name>
+  </wpt>
+  <wpt lat="42.67858" lon="-83.23854">
+    <name>PEDESTRIAN CROSSING</name>
+  </wpt>
+  <wpt lat="42.67879" lon="-83.23098">
+    <name>SCHOOL ZONE school zone</name>
+  </wpt>
+  <wpt lat="42.67891" lon="-83.22662">
+    <name>PEDESTRIAN CROSSING</name>
+  </wpt>
+  <wpt lat="42.6789" lon="-83.21753">
+    <name>PEDESTRIAN CROSSING</name>
+  </wpt>
+  <wpt lat="42.68029" lon="-83.19994">
+    <name>Speed limit: 40</name>
+  </wpt>
+  <wpt lat="42.67989" lon="-83.19992">
+    <name>STOP SIGN</name>
+  </wpt>
+  <wpt lat="42.67548" lon="-83.19381">
+    <name>Speed limit: 72</name>
+  </wpt>
+  <wpt lat="42.67267" lon="-83.19364">
+    <name>PEDESTRIAN CROSSING</name>
+  </wpt>
+  <wpt lat="42.66524" lon="-83.18897">
+    <name>Speed limit: 40</name>
+  </wpt>
+  <wpt lat="42.65731" lon="-83.17646">
+    <name>Speed limit: 72</name>
+  </wpt>
+  <wpt lat="42.65017" lon="-83.1722">
+    <name>PEDESTRIAN CROSSING</name>
+  </wpt>
+  <wpt lat="42.64274" lon="-83.17073">
+    <name>Speed limit: 113</name>
+  </wpt>
+  <wpt lat="42.62428" lon="-83.05616">
+    <name>Speed limit: 56</name>
+  </wpt>
+  <wpt lat="42.62468" lon="-83.04128">
+    <name>Speed limit: 40</name>
+  </wpt>
+  <wpt lat="42.62341" lon="-83.0397">
+    <name>SCHOOL ZONE school zone</name>
+  </wpt>
+  <wpt lat="42.62239" lon="-83.0387">
+    <name>PEDESTRIAN CROSSING</name>
+  </wpt>
+  <wpt lat="42.61732" lon="-83.03724">
+    <name>Speed limit: 56</name>
+  </wpt>
+  <wpt lat="42.6112" lon="-83.03169">
+    <name>Speed limit: 72</name>
+  </wpt>
+  <wpt lat="42.59345" lon="-83.01374">
+    <name>Speed limit: 56</name>
+  </wpt>
+  <wpt lat="42.59307" lon="-83.01327">
+    <name>PEDESTRIAN CROSSING</name>
+  </wpt>
+  <wpt lat="42.59215" lon="-83.01184">
+    <name>PEDESTRIAN CROSSING</name>
+  </wpt>
+  <wpt lat="42.59017" lon="-83.00912">
+    <name>PEDESTRIAN CROSSING</name>
+  </wpt>
+  <wpt lat="42.58983" lon="-83.00863">
+    <name>Speed limit: 72</name>
+  </wpt>
+  <wpt lat="42.54582" lon="-82.95678">
+    <name>Speed limit: 56</name>
+  </wpt>
+  <wpt lat="42.54135" lon="-82.95425">
+    <name>SCHOOL ZONE school zone</name>
+  </wpt>
+  <wpt lat="42.51399" lon="-82.93855">
+    <name>PEDESTRIAN CROSSING</name>
+  </wpt>
+  <wpt lat="42.50969" lon="-82.93611">
+    <name>Speed limit: 72</name>
+  </wpt>
+  <wpt lat="42.50974" lon="-82.93336">
+    <name>SCHOOL ZONE school zone</name>
+  </wpt>
+  <wpt lat="42.51023" lon="-82.90834">
+    <name>Speed limit: 56</name>
+  </wpt>
+  <wpt lat="42.5083" lon="-82.90824">
+    <name>Speed limit: 40</name>
+  </wpt>
+  <wpt lat="42.50591" lon="-82.89815">
+    <name>Speed limit: 64</name>
+  </wpt>
+  <wpt lat="42.50463" lon="-82.89805">
+    <name>Speed limit: 40</name>
+  </wpt>
+  <wpt lat="42.50433" lon="-82.89683">
+    <name>Speed limit: None</name>
+  </wpt>
+  <wpt lat="42.50321" lon="-82.89678">
+    <name>Speed limit: 48</name>
+  </wpt>
+  <wpt lat="42.50321" lon="-82.89671">
+    <name>Speed limit: 40</name>
+  </wpt>
+  <wpt lat="42.49726" lon="-82.89262">
+    <name>STOP SIGN</name>
+  </wpt>
+  <wpt lat="42.49628" lon="-82.89259">
+    <name>STOP SIGN</name>
+  </wpt>
+  <wpt lat="42.4907" lon="-82.89239">
+    <name>STOP SIGN</name>
+  </wpt>
+  <wpt lat="42.30798" lon="-83.23566">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;3;;;;;;AC EV connector (Yazaki - type 1);ClipperCreek</name>
+  </wpt>
+  <wpt lat="42.30458" lon="-83.24776">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);Eaton</name>
+  </wpt>
+  <wpt lat="42.31811" lon="-83.23546">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);ClipperCreek</name>
+  </wpt>
+  <wpt lat="42.30497" lon="-83.24354">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;6;;;;;;AC EV connector (Yazaki - type 1);</name>
+  </wpt>
+  <wpt lat="42.31375" lon="-83.20285">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);Bosh</name>
+  </wpt>
+  <wpt lat="42.31785" lon="-83.04391">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);</name>
+  </wpt>
+  <wpt lat="42.29905" lon="-83.0119">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.24;AC EV connector (Yazaki - type 1);AddEnergie</name>
+  </wpt>
+  <wpt lat="42.30492" lon="-83.00157">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);Eaton</name>
+  </wpt>
+  <wpt lat="42.31407" lon="-82.91597">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);</name>
+  </wpt>
+  <wpt lat="42.31429" lon="-82.92426">
+    <name>IEC 62196-2 type 1 combo (SAE J1772);DC Fast Charge - 600VDC max @200A max;1;;;;;;AC/DC combo (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.30675" lon="-82.86956">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;4;3;;;;;AC EV connector (Yazaki - type 1);</name>
+  </wpt>
+  <wpt lat="42.30888" lon="-82.86943">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;4;;;;2;6.24;AC EV connector (Yazaki - type 1);AddEnergie</name>
+  </wpt>
+  <wpt lat="42.32497" lon="-83.4509">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;3;;true;;;AC EV connector (Yazaki - type 1);Blink</name>
+  </wpt>
+  <wpt lat="42.33872" lon="-83.39821">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);Eaton</name>
+  </wpt>
+  <wpt lat="42.32056" lon="-83.23678">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);ClipperCreek</name>
+  </wpt>
+  <wpt lat="42.32605" lon="-83.06902">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.33517" lon="-83.05954">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;6;;;false;;;AC EV connector (Yazaki - type 1);Eaton</name>
+  </wpt>
+  <wpt lat="42.33332" lon="-83.05731">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);Schneider</name>
+  </wpt>
+  <wpt lat="42.33517" lon="-83.06137">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;24;;;;;;AC EV connector (Yazaki - type 1);Delta</name>
+  </wpt>
+  <wpt lat="42.32397" lon="-83.06563">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;6;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.33498" lon="-83.05549">
+    <name>IEC 62196-2 type 1 combo (SAE J1772);DC Fast Charge - 600VDC max @200A max;3;;;;3;50;AC/DC combo (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.33458" lon="-83.05595">
+    <name>IEC 62196-2 type 1 combo (SAE J1772);DC Fast Charge - 600VDC max @200A max;1;;;;3;50;AC/DC combo (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.3332" lon="-83.04146">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.33378" lon="-83.04646">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;4;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.33241" lon="-83.04735">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.32972" lon="-83.04511">
+    <name>Tesla Connector (high power wall);Level 2 - 208/240VAC @ 30A;3;;;;;;Tesla Connector;Tesla</name>
+  </wpt>
+  <wpt lat="42.32996" lon="-83.04045">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.33617" lon="-83.05078">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.32799" lon="-83.04049">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 240VAC @ 30A;1;3;;;;;AC EV connector (Yazaki - type 1);</name>
+  </wpt>
+  <wpt lat="42.33417" lon="-83.04596">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;4;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.33427" lon="-83.04677">
+    <name>Tesla Connector (high power wall);Level 2 - 208/240VAC @ 30A;3;;;;;;Tesla Connector;Tesla</name>
+  </wpt>
+  <wpt lat="42.33382" lon="-83.04321">
+    <name>Tesla Connector (high power wall);Level 2 - 208/240VAC @ 30A;2;;;;;;Tesla Connector;Tesla</name>
+  </wpt>
+  <wpt lat="42.33373" lon="-83.04448">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.32931" lon="-83.04631">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;4;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.33124" lon="-83.04351">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.33069" lon="-83.04451">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;4;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.32846" lon="-83.05495">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;4;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.33077" lon="-83.04462">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.32956" lon="-83.03869">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;10;;;;;;AC EV connector (Yazaki - type 1);Eaton</name>
+  </wpt>
+  <wpt lat="42.33322" lon="-83.04611">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;12;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.33066" lon="-83.04909">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.33467" lon="-83.03107">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);</name>
+  </wpt>
+  <wpt lat="42.3255" lon="-83.00931">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;7.2;AC EV connector (Yazaki - type 1);AddEnergie</name>
+  </wpt>
+  <wpt lat="42.32526" lon="-83.00819">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 240VAC @ 30A;2;3;;;;;AC EV connector (Yazaki - type 1);</name>
+  </wpt>
+  <wpt lat="42.35971" lon="-83.43268">
+    <name>JEVS G 105 (CHAdeMO);DC Fast Charge - 600VDC max @200A max;1;;;;;;DC TEPCO connector;|IEC 62196-2 type 1 combo (SAE J1772);DC Fast Charge - 600VDC max @200A max;1;;;;;;AC/DC combo (Yazaki - type 1);</name>
+  </wpt>
+  <wpt lat="42.35655" lon="-83.06486">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);ClipperCreek</name>
+  </wpt>
+  <wpt lat="42.35847" lon="-83.0736">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);ClipperCreek</name>
+  </wpt>
+  <wpt lat="42.35656" lon="-83.07337">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);ClipperCreek</name>
+  </wpt>
+  <wpt lat="42.36119" lon="-83.0709">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);ClipperCreek</name>
+  </wpt>
+  <wpt lat="42.35429" lon="-83.06417">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);ClipperCreek</name>
+  </wpt>
+  <wpt lat="42.35743" lon="-83.06596">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);ClipperCreek</name>
+  </wpt>
+  <wpt lat="42.36076" lon="-83.06445">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;6;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.35332" lon="-83.07561">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);ClipperCreek</name>
+  </wpt>
+  <wpt lat="42.34318" lon="-83.05218">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.35538" lon="-83.05507">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);ClipperCreek</name>
+  </wpt>
+  <wpt lat="42.34908" lon="-83.05643">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);ClipperCreek</name>
+  </wpt>
+  <wpt lat="42.34655" lon="-83.03933">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;4;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.35579" lon="-83.05542">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);ClipperCreek</name>
+  </wpt>
+  <wpt lat="42.35746" lon="-82.97482">
+    <name>Tesla Connector (high power wall);Level 2 - 208/240VAC @ 30A;2;;;;;;Tesla Connector;Tesla</name>
+  </wpt>
+  <wpt lat="42.36977" lon="-83.3723">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;4;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.36844" lon="-83.36513">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);|IEC 62196-2 type 1 combo (SAE J1772);DC Fast Charge - 600VDC max @200A max;1;;;;;;AC/DC combo (Yazaki - type 1);</name>
+  </wpt>
+  <wpt lat="42.37282" lon="-83.37243">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);</name>
+  </wpt>
+  <wpt lat="42.37939" lon="-83.32948">
+    <name>Tesla Connector (high power wall);DC Fast Charge - 600VDC max @200A max;10;;;;;;Tesla Connector;Tesla</name>
+  </wpt>
+  <wpt lat="42.36785" lon="-83.27462">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);Leviton</name>
+  </wpt>
+  <wpt lat="42.36493" lon="-83.07627">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;5;;;;;;AC EV connector (Yazaki - type 1);Volta</name>
+  </wpt>
+  <wpt lat="42.36441" lon="-83.07464">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.36442" lon="-83.07416">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.37114" lon="-83.07542">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;4;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.36875" lon="-83.0741">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;4;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.38571" lon="-83.51908">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;false;;;AC EV connector (Yazaki - type 1);GE</name>
+  </wpt>
+  <wpt lat="42.42226" lon="-83.43288">
+    <name>Domestic plug/socket type B (NEMA 5-20);Level 1 - 120VAC @ 16A;1;;;;1;1.9;country specific domestic plug/socket;ChargePoint|IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.41937" lon="-83.43274">
+    <name>Domestic plug/socket type B (NEMA 5-20);Level 1 - 120VAC @ 16A;1;;;;1;1.9;country specific domestic plug/socket;ChargePoint|IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.42668" lon="-83.42017">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.42758" lon="-83.28464">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);</name>
+  </wpt>
+  <wpt lat="42.41423" lon="-83.13644">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);Control Module Industries</name>
+  </wpt>
+  <wpt lat="42.43109" lon="-83.48404">
+    <name>Tesla Connector (high power wall);Level 2 - 208/240VAC @ 30A;2;;;;;;Tesla Connector;Tesla</name>
+  </wpt>
+  <wpt lat="42.43655" lon="-83.43512">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;4;;;;;;AC EV connector (Yazaki - type 1);|JEVS G 105 (CHAdeMO);DC Fast Charge - 600VDC max @200A max;2;;;;;;DC TEPCO connector;|IEC 62196-2 type 1 combo (SAE J1772);DC Fast Charge - 600VDC max @200A max;2;;;;;;AC/DC combo (Yazaki - type 1);</name>
+  </wpt>
+  <wpt lat="42.43469" lon="-82.87357">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;4;;;;;;AC EV connector (Yazaki - type 1);</name>
+  </wpt>
+  <wpt lat="42.4623" lon="-83.56218">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);Bosh</name>
+  </wpt>
+  <wpt lat="42.46606" lon="-83.49133">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);Schneider</name>
+  </wpt>
+  <wpt lat="42.47215" lon="-83.43666">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.46805" lon="-83.43371">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);ClipperCreek</name>
+  </wpt>
+  <wpt lat="42.46994" lon="-83.42683">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.46859" lon="-83.41386">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);Leviton</name>
+  </wpt>
+  <wpt lat="42.46779" lon="-83.41879">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);Webasto</name>
+  </wpt>
+  <wpt lat="42.46058" lon="-83.13257">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);ClipperCreek</name>
+  </wpt>
+  <wpt lat="42.45501" lon="-83.13106">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);PEP</name>
+  </wpt>
+  <wpt lat="42.46145" lon="-83.1374">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);ClipperCreek</name>
+  </wpt>
+  <wpt lat="42.458" lon="-83.13312">
+    <name>JEVS G 105 (CHAdeMO);DC Fast Charge - 600VDC max @200A max;1;;;;;;DC TEPCO connector;|IEC 62196-2 type 1 combo (SAE J1772);DC Fast Charge - 600VDC max @200A max;1;;;;;;AC/DC combo (Yazaki - type 1);</name>
+  </wpt>
+  <wpt lat="42.46806" lon="-82.95546">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);ClipperCreek</name>
+  </wpt>
+  <wpt lat="42.46695" lon="-82.89836">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);Leviton</name>
+  </wpt>
+  <wpt lat="42.4911" lon="-83.5149">
+    <name>JEVS G 105 (CHAdeMO);DC Fast Charge - 600VDC max @200A max;1;;;;;;DC TEPCO connector;|IEC 62196-2 type 1 combo (SAE J1772);DC Fast Charge - 600VDC max @200A max;1;;;;;;AC/DC combo (Yazaki - type 1);</name>
+  </wpt>
+  <wpt lat="42.48234" lon="-83.47412">
+    <name>IEC 62196-2 type 1 combo (SAE J1772);DC Fast Charge - 1000VDC @ 350A;3;;;true;;;AC/DC combo (Yazaki - type 1);Electrify America|IEC 62196-2 type 1 combo (SAE J1772);DC Fast Charge - 500VDC @ 300A;1;;;true;;;AC/DC combo (Yazaki - type 1);Electrify America|JEVS G 105 (CHAdeMO);DC Fast Charge - 400VDC @ 125A;1;;;true;;;DC TEPCO connector;Electrify America</name>
+  </wpt>
+  <wpt lat="42.47819" lon="-83.46398">
+    <name>IEC 62196-2 type 1 combo (SAE J1772);DC Fast Charge - 600VDC max @200A max;1;;;;;;AC/DC combo (Yazaki - type 1);Bosh|IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);</name>
+  </wpt>
+  <wpt lat="42.47397" lon="-83.43514">
+    <name>IEC 62196-2 type 1 combo (SAE J1772);DC Fast Charge - 600VDC max @200A max;1;;;;;;AC/DC combo (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.49437" lon="-83.42581">
+    <name>IEC 62196-2 type 1 combo (SAE J1772);DC Fast Charge - 600VDC max @200A max;2;;;;;;AC/DC combo (Yazaki - type 1);|IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;14;;;;;;AC EV connector (Yazaki - type 1);Webasto|JEVS G 105 (CHAdeMO);DC Fast Charge - 600VDC max @200A max;2;;;;;;DC TEPCO connector;</name>
+  </wpt>
+  <wpt lat="42.47641" lon="-83.24973">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);ClipperCreek</name>
+  </wpt>
+  <wpt lat="42.48805" lon="-83.14553">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.47591" lon="-83.14568">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;20;;;;;;AC EV connector (Yazaki - type 1);</name>
+  </wpt>
+  <wpt lat="42.48854" lon="-83.14555">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;4;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.48599" lon="-83.14779">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.48334" lon="-83.10943">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.4838" lon="-83.09281">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);Eaton</name>
+  </wpt>
+  <wpt lat="42.47984" lon="-82.98964">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.5148" lon="-83.60947">
+    <name>IEC 62196-2 type 1 combo (SAE J1772);DC Fast Charge - 600VDC max @200A max;1;;;;;;AC/DC combo (Yazaki - type 1);Bosh</name>
+  </wpt>
+  <wpt lat="42.49714" lon="-83.43751">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;4;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.49885" lon="-83.4403">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint|Domestic plug/socket type B (NEMA 5-20);Level 1 - 120VAC @ 16A;1;;;;1;1.9;country specific domestic plug/socket;ChargePoint</name>
+  </wpt>
+  <wpt lat="42.49683" lon="-83.37398">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);Schneider</name>
+  </wpt>
+  <wpt lat="42.49689" lon="-83.37651">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;7;;;;;;AC EV connector (Yazaki - type 1);ClipperCreek</name>
+  </wpt>
+  <wpt lat="42.51107" lon="-83.35918">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;4;;;;;;AC EV connector (Yazaki - type 1);</name>
+  </wpt>
+  <wpt lat="42.50318" lon="-83.285">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);Leviton</name>
+  </wpt>
+  <wpt lat="42.49829" lon="-83.28536">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);Webasto</name>
+  </wpt>
+  <wpt lat="42.509" lon="-83.04874">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.50968" lon="-83.04689">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.50843" lon="-83.02834">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;false;;;AC EV connector (Yazaki - type 1);Blink|IEC 62196-2 type 1 (SAE J1772);Level 2 - 240VAC @ 30A;2;3;;;;;AC EV connector (Yazaki - type 1);</name>
+  </wpt>
+  <wpt lat="42.50903" lon="-82.97426">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;4;;;;;;AC EV connector (Yazaki - type 1);ClipperCreek</name>
+  </wpt>
+  <wpt lat="42.49539" lon="-82.88884">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;4;;;;;;AC EV connector (Yazaki - type 1);</name>
+  </wpt>
+  <wpt lat="42.52354" lon="-83.53664">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);SemaConnect</name>
+  </wpt>
+  <wpt lat="42.52679" lon="-83.53617">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.51773" lon="-83.51075">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint|Domestic plug/socket type B (NEMA 5-20);Level 1 - 120VAC @ 16A;2;;;;1;1.9;country specific domestic plug/socket;ChargePoint</name>
+  </wpt>
+  <wpt lat="42.5329" lon="-83.49311">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.52951" lon="-83.35953">
+    <name>Tesla Connector (high power wall);Level 2 - 208/240VAC @ 30A;2;;;;;;Tesla Connector;Tesla</name>
+  </wpt>
+  <wpt lat="42.52167" lon="-83.349">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.53057" lon="-83.18424">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.52478" lon="-83.10038">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);SemaConnect</name>
+  </wpt>
+  <wpt lat="42.52344" lon="-82.98826">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.52354" lon="-82.91924">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);Webasto</name>
+  </wpt>
+  <wpt lat="42.52237" lon="-82.90878">
+    <name>IEC 62196-2 type 1 combo (SAE J1772);DC Fast Charge - 500VDC @ 300A;3;;;true;;;AC/DC combo (Yazaki - type 1);Electrify America|JEVS G 105 (CHAdeMO);DC Fast Charge - 400VDC @ 125A;1;;;true;;;DC TEPCO connector;Electrify America|IEC 62196-2 type 1 combo (SAE J1772);DC Fast Charge - 1000VDC @ 350A;4;;;true;;;AC/DC combo (Yazaki - type 1);Electrify America</name>
+  </wpt>
+  <wpt lat="42.54598" lon="-83.54136">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.5489" lon="-83.46854">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.55543" lon="-83.43184">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.5393" lon="-83.40733">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;4;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.54484" lon="-83.28681">
+    <name>Tesla Connector (high power wall);Level 2 - 208/240VAC @ 30A;2;;;;;;Tesla Connector;Tesla</name>
+  </wpt>
+  <wpt lat="42.54458" lon="-83.21492">
+    <name>Tesla Connector (high power wall);Level 2 - 208/240VAC @ 30A;2;;;;;;Tesla Connector;Tesla</name>
+  </wpt>
+  <wpt lat="42.55686" lon="-83.17253">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.55264" lon="-83.17417">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);Webasto</name>
+  </wpt>
+  <wpt lat="42.54868" lon="-83.13215">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;4;;;;;;AC EV connector (Yazaki - type 1);</name>
+  </wpt>
+  <wpt lat="42.55992" lon="-83.11528">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.55662" lon="-82.9303">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.5662" lon="-83.5021">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.57174" lon="-83.24974">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);SPX</name>
+  </wpt>
+  <wpt lat="42.56345" lon="-83.14767">
+    <name>IEC 62196-2 type 1 combo (SAE J1772);DC Fast Charge - 600VDC max @200A max;2;;;;3;50;AC/DC combo (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.56406" lon="-83.16212">
+    <name>Tesla Connector (high power wall);Level 2 - 208/240VAC @ 30A;2;;;;;;Tesla Connector;Tesla</name>
+  </wpt>
+  <wpt lat="42.57391" lon="-83.14524">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint|Domestic plug/socket type B (NEMA 5-20);Level 1 - 120VAC @ 16A;2;;;;1;1.9;country specific domestic plug/socket;ChargePoint</name>
+  </wpt>
+  <wpt lat="42.59163" lon="-83.60008">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;5;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.59363" lon="-83.48674">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.59226" lon="-83.45169">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.59617" lon="-83.1664">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.59744" lon="-83.16379">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.58969" lon="-83.03088">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;4;;;;;;AC EV connector (Yazaki - type 1);Leviton</name>
+  </wpt>
+  <wpt lat="42.59779" lon="-82.87754">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.5976" lon="-82.87877">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.61262" lon="-83.30668">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.61939" lon="-83.28298">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.61942" lon="-83.28551">
+    <name>Tesla Connector (high power wall);Level 2 - 208/240VAC @ 30A;4;;;;;;Tesla Connector;Tesla</name>
+  </wpt>
+  <wpt lat="42.60643" lon="-83.25037">
+    <name>Tesla Connector (high power wall);Level 2 - 208/240VAC @ 30A;2;;;;;;Tesla Connector;Tesla</name>
+  </wpt>
+  <wpt lat="42.63364" lon="-83.22113">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;4;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.63365" lon="-83.22081">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.63663" lon="-83.19458">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.62767" lon="-82.94648">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);Eaton</name>
+  </wpt>
+  <wpt lat="42.65365" lon="-83.57975">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);Webasto</name>
+  </wpt>
+  <wpt lat="42.66959" lon="-83.39115">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);ClipperCreek</name>
+  </wpt>
+  <wpt lat="42.65989" lon="-83.24372">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;false;;;AC EV connector (Yazaki - type 1);GE</name>
+  </wpt>
+  <wpt lat="42.67052" lon="-83.22053">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;3;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.68431" lon="-83.19212">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.68264" lon="-83.19404">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);Schneider</name>
+  </wpt>
+  <wpt lat="42.68301" lon="-83.13722">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);Webasto</name>
+  </wpt>
+  <wpt lat="42.6999" lon="-83.39964">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.70757" lon="-83.28813">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);|IEC 62196-2 type 1 combo (SAE J1772);DC Fast Charge - 600VDC max @200A max;2;;;;;;AC/DC combo (Yazaki - type 1);|JEVS G 105 (CHAdeMO);DC Fast Charge - 600VDC max @200A max;2;;;;;;DC TEPCO connector;</name>
+  </wpt>
+  <wpt lat="42.69959" lon="-83.28941">
+    <name>JEVS G 105 (CHAdeMO);DC Fast Charge - 600VDC max @200A max;1;;;;3;50;DC TEPCO connector;ChargePoint</name>
+  </wpt>
+  <wpt lat="42.72034" lon="-83.41825">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.74672" lon="-83.37162">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);Volta</name>
+  </wpt>
+  <wpt lat="42.74585" lon="-83.36915">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;4;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.781" lon="-83.52993">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);Leviton</name>
+  </wpt>
+  <wpt lat="42.80277" lon="-83.00435">
+    <name>IEC 62196-2 type 1 combo (SAE J1772);DC Fast Charge - 600VDC max @200A max;2;;;;3;50;AC/DC combo (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.87444" lon="-83.63311">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="42.90024" lon="-83.63081">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;;;AC EV connector (Yazaki - type 1);</name>
+  </wpt>
+  <wpt lat="42.90799" lon="-83.62789">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);Webasto</name>
+  </wpt>
+  <wpt lat="42.94106" lon="-83.64622">
+    <name>IEC 62196-2 type 1 combo (SAE J1772);DC Fast Charge - 600VDC max @200A max;1;;;;;;AC/DC combo (Yazaki - type 1);Bosh|IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;1;;;;;;AC EV connector (Yazaki - type 1);</name>
+  </wpt>
+  <wpt lat="43.01855" lon="-83.64735">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <wpt lat="43.03758" lon="-83.51811">
+    <name>IEC 62196-2 type 1 (SAE J1772);Level 2 - 208/240VAC @ 30A;2;;;;2;6.6;AC EV connector (Yazaki - type 1);ChargePoint</name>
+  </wpt>
+  <trk>
+    <name>././gpx/route0_staticfeaturesfile.gpx</name>
+    <trkseg>
+      <trkpt lat="42.70231" lon="-83.25501">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.70219" lon="-83.25501">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.70147" lon="-83.25501">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.70089" lon="-83.25529">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.70082" lon="-83.25504">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.7005" lon="-83.25392">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.70047" lon="-83.25378">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.70031" lon="-83.25216">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.70031" lon="-83.2519">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.70031" lon="-83.25186">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.70031" lon="-83.25174">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.70044" lon="-83.2472">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.70046" lon="-83.2465">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.70047" lon="-83.24609">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.69986" lon="-83.24609">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.69963" lon="-83.24609">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.69964" lon="-83.24598">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.69964" lon="-83.24576">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.69965" lon="-83.24554">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.69965" lon="-83.24533">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.69966" lon="-83.24511">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.6987" lon="-83.24506">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.69871" lon="-83.24485">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.69871" lon="-83.24463">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.69874" lon="-83.2432">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.69874" lon="-83.24244">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.69874" lon="-83.2424">
+        <name>Lane divider marker: Long dashed line, Speed limit: 89</name>
+      </trkpt>
+      <trkpt lat="42.69819" lon="-83.24238">
+        <name>Lane divider marker: Long dashed line, Speed limit: 89</name>
+      </trkpt>
+      <trkpt lat="42.69773" lon="-83.24236">
+        <name>Lane divider marker: Long dashed line, Speed limit: 89</name>
+      </trkpt>
+      <trkpt lat="42.69704" lon="-83.24234">
+        <name>Lane divider marker: Long dashed line, Speed limit: 89</name>
+      </trkpt>
+      <trkpt lat="42.69594" lon="-83.24229">
+        <name>Lane divider marker: Long dashed line, Speed limit: 89</name>
+      </trkpt>
+      <trkpt lat="42.69566" lon="-83.24228">
+        <name>Lane divider marker: Long dashed line, Speed limit: 89</name>
+      </trkpt>
+      <trkpt lat="42.69539" lon="-83.24226">
+        <name>Lane divider marker: Long dashed line, Speed limit: 89</name>
+      </trkpt>
+      <trkpt lat="42.69462" lon="-83.2422">
+        <name>Lane divider marker: Long dashed line, Speed limit: 89</name>
+      </trkpt>
+      <trkpt lat="42.69337" lon="-83.242">
+        <name>Lane divider marker: None, Speed limit: 89</name>
+      </trkpt>
+      <trkpt lat="42.6931" lon="-83.24194">
+        <name>Lane divider marker: None, Speed limit: 89</name>
+      </trkpt>
+      <trkpt lat="42.693" lon="-83.24192">
+        <name>Lane divider marker: None, Speed limit: 89</name>
+      </trkpt>
+      <trkpt lat="42.69211" lon="-83.24173">
+        <name>Lane divider marker: None, Speed limit: 89</name>
+      </trkpt>
+      <trkpt lat="42.69162" lon="-83.24163">
+        <name>Lane divider marker: None, Speed limit: 89</name>
+      </trkpt>
+      <trkpt lat="42.69077" lon="-83.24146">
+        <name>Lane divider marker: Long dashed line, Speed limit: 89</name>
+      </trkpt>
+      <trkpt lat="42.69037" lon="-83.24138">
+        <name>Lane divider marker: Long dashed line, Speed limit: 89</name>
+      </trkpt>
+      <trkpt lat="42.68975" lon="-83.24124">
+        <name>Lane divider marker: None, Speed limit: 89</name>
+      </trkpt>
+      <trkpt lat="42.68899" lon="-83.24108">
+        <name>Lane divider marker: Long dashed line, Speed limit: 89</name>
+      </trkpt>
+      <trkpt lat="42.68814" lon="-83.24103">
+        <name>Lane divider marker: Long dashed line, Speed limit: 89</name>
+      </trkpt>
+      <trkpt lat="42.68742" lon="-83.24109">
+        <name>Lane divider marker: Long dashed line, Speed limit: 89</name>
+      </trkpt>
+      <trkpt lat="42.687" lon="-83.24117">
+        <name>Lane divider marker: Long dashed line, Speed limit: 89</name>
+      </trkpt>
+      <trkpt lat="42.68666" lon="-83.24128">
+        <name>Lane divider marker: Single solid line, Speed limit: 89</name>
+      </trkpt>
+      <trkpt lat="42.68637" lon="-83.24139">
+        <name>Lane divider marker: Single solid line, Speed limit: 89</name>
+      </trkpt>
+      <trkpt lat="42.68612" lon="-83.24148">
+        <name>Lane divider marker: Long dashed line, Speed limit: 89</name>
+      </trkpt>
+      <trkpt lat="42.68536" lon="-83.2419">
+        <name>Lane divider marker: Long dashed line, Speed limit: 80</name>
+      </trkpt>
+      <trkpt lat="42.68484" lon="-83.24225">
+        <name>Lane divider marker: None, Speed limit: 80</name>
+      </trkpt>
+      <trkpt lat="42.68416" lon="-83.24284">
+        <name>Lane divider marker: Long dashed line, Speed limit: 80</name>
+      </trkpt>
+      <trkpt lat="42.68384" lon="-83.2432">
+        <name>Lane divider marker: Long dashed line, Speed limit: 80</name>
+      </trkpt>
+      <trkpt lat="42.68314" lon="-83.24415">
+        <name>Lane divider marker: Long dashed line, Speed limit: 80</name>
+      </trkpt>
+      <trkpt lat="42.68288" lon="-83.24454">
+        <name>Lane divider marker: Long dashed line, Speed limit: 80</name>
+      </trkpt>
+      <trkpt lat="42.68266" lon="-83.24488">
+        <name>Lane divider marker: Long dashed line, Speed limit: 80</name>
+      </trkpt>
+      <trkpt lat="42.68249" lon="-83.24513">
+        <name>Lane divider marker: Long dashed line, Speed limit: 80</name>
+      </trkpt>
+      <trkpt lat="42.68158" lon="-83.24583">
+        <name>Lane divider marker: Long dashed line, Speed limit: 80</name>
+      </trkpt>
+      <trkpt lat="42.68084" lon="-83.24601">
+        <name>Lane divider marker: Long dashed line, Speed limit: 80</name>
+      </trkpt>
+      <trkpt lat="42.68069" lon="-83.246">
+        <name>Lane divider marker: Long dashed line, Speed limit: 80</name>
+      </trkpt>
+      <trkpt lat="42.68014" lon="-83.24599">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67988" lon="-83.24598">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.67988" lon="-83.24549">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.67991" lon="-83.24458">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.67902" lon="-83.24455">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.67881" lon="-83.24454">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.67881" lon="-83.24415">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.67844" lon="-83.24412">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67845" lon="-83.24382">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67846" lon="-83.24331">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67847" lon="-83.24277">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67851" lon="-83.24107">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67854" lon="-83.24012">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67858" lon="-83.23878">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67858" lon="-83.23867">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67858" lon="-83.23854">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67862" lon="-83.23693">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67869" lon="-83.23464">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67875" lon="-83.23262">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67878" lon="-83.2314">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67879" lon="-83.23098">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.6788" lon="-83.23061">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67881" lon="-83.23029">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67882" lon="-83.2297">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67883" lon="-83.22956">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67884" lon="-83.22928">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67887" lon="-83.22832">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67889" lon="-83.2273">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67891" lon="-83.22662">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67893" lon="-83.22596">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67893" lon="-83.22578">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67895" lon="-83.22492">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67898" lon="-83.22378">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67899" lon="-83.22356">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.679" lon="-83.22288">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67901" lon="-83.22259">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67901" lon="-83.22237">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67901" lon="-83.22227">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67901" lon="-83.22212">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67897" lon="-83.22191">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67895" lon="-83.22132">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67895" lon="-83.22102">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67894" lon="-83.22046">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67893" lon="-83.21959">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67892" lon="-83.21876">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67892" lon="-83.21851">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67892" lon="-83.21833">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.6789" lon="-83.21753">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67888" lon="-83.21636">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67897" lon="-83.21492">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67907" lon="-83.2143">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67921" lon="-83.21367">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67944" lon="-83.21285">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67966" lon="-83.21212">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67974" lon="-83.21187">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67984" lon="-83.21154">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67997" lon="-83.21099">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.68005" lon="-83.21048">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.68007" lon="-83.21022">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.6801" lon="-83.2097">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.68011" lon="-83.2089">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.68012" lon="-83.20826">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.68013" lon="-83.20788">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.68014" lon="-83.20748">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.68017" lon="-83.20559">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.68018" lon="-83.20507">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.68019" lon="-83.20431">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.68023" lon="-83.20264">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.68025" lon="-83.20186">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.68026" lon="-83.20116">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.68027" lon="-83.20071">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.68029" lon="-83.19994">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.67989" lon="-83.19992">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.67962" lon="-83.19982">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.6796" lon="-83.19971">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.67833" lon="-83.19873">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.67718" lon="-83.19612">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.67685" lon="-83.19579">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.67614" lon="-83.19534">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.67548" lon="-83.19381">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67505" lon="-83.19378">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67478" lon="-83.19376">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.6746" lon="-83.19375">
+        <name>Lane divider marker: No divider, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67446" lon="-83.19374">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67352" lon="-83.19368">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67267" lon="-83.19364">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67233" lon="-83.19363">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.672" lon="-83.19362">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.671" lon="-83.19357">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67064" lon="-83.19355">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.67029" lon="-83.19353">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.66896" lon="-83.19345">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.66834" lon="-83.19342">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.66736" lon="-83.19336">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.66614" lon="-83.19332">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.66589" lon="-83.19331">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.66519" lon="-83.19331">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.66519" lon="-83.19303">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.66519" lon="-83.19275">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.6652" lon="-83.19231">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.66521" lon="-83.19193">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.66523" lon="-83.19007">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.66524" lon="-83.18897">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.66394" lon="-83.18896">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.66185" lon="-83.18577">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.66029" lon="-83.18421">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.65999" lon="-83.18393">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.65922" lon="-83.1828">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.65933" lon="-83.18016">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.65805" lon="-83.17941">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.6578" lon="-83.17842">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.65731" lon="-83.17646">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.65626" lon="-83.17624">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.65482" lon="-83.17594">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.65391" lon="-83.17558">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.65319" lon="-83.17504">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.65271" lon="-83.1746">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.65255" lon="-83.17445">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.65246" lon="-83.17436">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.65233" lon="-83.17423">
+        <name>Lane divider marker: No divider, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.65212" lon="-83.17403">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.65198" lon="-83.1739">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.65183" lon="-83.17374">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.65168" lon="-83.17361">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.65115" lon="-83.17311">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.65061" lon="-83.1726">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.65037" lon="-83.17238">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.65017" lon="-83.1722">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.65002" lon="-83.17206">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.64976" lon="-83.1718">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.64953" lon="-83.17156">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.6491" lon="-83.17127">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.64884" lon="-83.17112">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.64839" lon="-83.17098">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.6482" lon="-83.17095">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.64802" lon="-83.17094">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.64774" lon="-83.17093">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.64767" lon="-83.17093">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.64759" lon="-83.17093">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.64747" lon="-83.17092">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.64727" lon="-83.17092">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.64705" lon="-83.17091">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.64673" lon="-83.17089">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.6464" lon="-83.17088">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.64614" lon="-83.17087">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.64609" lon="-83.17087">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.64567" lon="-83.17086">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.64547" lon="-83.17086">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.64496" lon="-83.17085">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.64418" lon="-83.17082">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.64394" lon="-83.17081">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.64365" lon="-83.17079">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.64347" lon="-83.17078">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.64316" lon="-83.17076">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.64306" lon="-83.17076">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.64274" lon="-83.17073">
+        <name>Lane divider marker: None, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.64323" lon="-83.16882">
+        <name>Lane divider marker: None, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.6443" lon="-83.16593">
+        <name>Lane divider marker: None, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.64426" lon="-83.15957">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.64416" lon="-83.15883">
+        <name>Lane divider marker: No divider, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.64406" lon="-83.15823">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.6437" lon="-83.15671">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.64309" lon="-83.15497">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.64186" lon="-83.15254">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.64175" lon="-83.15238">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.64165" lon="-83.15223">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.63994" lon="-83.15018">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.63696" lon="-83.14716">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.63589" lon="-83.14608">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.63564" lon="-83.14582">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.63383" lon="-83.14395">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.63225" lon="-83.14203">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.63166" lon="-83.14111">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.63076" lon="-83.13925">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.63017" lon="-83.13751">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62992" lon="-83.13668">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62862" lon="-83.13242">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62851" lon="-83.13207">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.6284" lon="-83.13173">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62834" lon="-83.13153">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62829" lon="-83.13135">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62823" lon="-83.13116">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62767" lon="-83.1293">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62702" lon="-83.12715">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62693" lon="-83.12685">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62639" lon="-83.1251">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62602" lon="-83.12389">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62581" lon="-83.12317">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62555" lon="-83.12223">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62492" lon="-83.11893">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62483" lon="-83.11795">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62486" lon="-83.11372">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62506" lon="-83.10765">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62513" lon="-83.10527">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62527" lon="-83.10055">
+        <name>Lane divider marker: None, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62528" lon="-83.1002">
+        <name>Lane divider marker: Short dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.6253" lon="-83.09935">
+        <name>Lane divider marker: Short dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62532" lon="-83.09859">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62545" lon="-83.09418">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.6254" lon="-83.09157">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.625" lon="-83.0876">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62464" lon="-83.08477">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62457" lon="-83.08423">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62451" lon="-83.08372">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62444" lon="-83.08312">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62416" lon="-83.08008">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62416" lon="-83.07603">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62422" lon="-83.07402">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62425" lon="-83.07293">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62432" lon="-83.07002">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62435" lon="-83.0668">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62437" lon="-83.06443">
+        <name>Lane divider marker: Short dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62439" lon="-83.06375">
+        <name>Lane divider marker: Single solid line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.6244" lon="-83.06322">
+        <name>Lane divider marker: Long dashed line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62443" lon="-83.06178">
+        <name>Lane divider marker: Single solid line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.6243" lon="-83.05716">
+        <name>Lane divider marker: Single solid line, Speed limit: 113</name>
+      </trkpt>
+      <trkpt lat="42.62428" lon="-83.05616">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.62429" lon="-83.05541">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.6243" lon="-83.05442">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.62431" lon="-83.05414">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.62434" lon="-83.05329">
+        <name>Lane divider marker: Single solid line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.62437" lon="-83.05227">
+        <name>Lane divider marker: Single solid line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.62439" lon="-83.05186">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.62441" lon="-83.05116">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.62443" lon="-83.05003">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.62462" lon="-83.04711">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.62465" lon="-83.04615">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.62465" lon="-83.04523">
+        <name>Lane divider marker: Single solid line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.62465" lon="-83.04472">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.62465" lon="-83.04307">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.62465" lon="-83.04291">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.62466" lon="-83.04263">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.62466" lon="-83.04223">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.62467" lon="-83.0419">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.62468" lon="-83.04128">
+        <name>Lane divider marker: Single solid line, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.62449" lon="-83.04124">
+        <name>Lane divider marker: Single solid line, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.62438" lon="-83.04117">
+        <name>Lane divider marker: Single solid line, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.62432" lon="-83.04112">
+        <name>Lane divider marker: No divider, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.62421" lon="-83.04096">
+        <name>Lane divider marker: No divider, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.62415" lon="-83.04086">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.62399" lon="-83.0406">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.6239" lon="-83.04046">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.62341" lon="-83.0397">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.62301" lon="-83.03908">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.62271" lon="-83.03873">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.62239" lon="-83.0387">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.62203" lon="-83.03867">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.62192" lon="-83.03866">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.62179" lon="-83.03865">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.62145" lon="-83.03864">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.62108" lon="-83.03861">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.62072" lon="-83.03858">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.62034" lon="-83.03844">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.61974" lon="-83.0382">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.61934" lon="-83.03804">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.61912" lon="-83.03795">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.61895" lon="-83.03788">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.61732" lon="-83.03724">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.61714" lon="-83.03717">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.61642" lon="-83.03686">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.61597" lon="-83.03643">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.61563" lon="-83.03609">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.61545" lon="-83.0359">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.61532" lon="-83.03578">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.61522" lon="-83.03568">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.61489" lon="-83.03534">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.61482" lon="-83.03527">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.6141" lon="-83.03456">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.61392" lon="-83.03439">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.61363" lon="-83.0341">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.61314" lon="-83.03362">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.61298" lon="-83.03347">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.6127" lon="-83.0332">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.61232" lon="-83.03283">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.6116" lon="-83.0321">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.61149" lon="-83.03199">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.6112" lon="-83.03169">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.61097" lon="-83.03146">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.61065" lon="-83.03116">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.6105" lon="-83.031">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.61044" lon="-83.03095">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.61018" lon="-83.03068">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.60993" lon="-83.03044">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.60978" lon="-83.0303">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.60971" lon="-83.03023">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.60931" lon="-83.02983">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.60851" lon="-83.02903">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.60799" lon="-83.02852">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.60767" lon="-83.02822">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.60762" lon="-83.02817">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.60735" lon="-83.02791">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.60644" lon="-83.02701">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.60443" lon="-83.02505">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.60437" lon="-83.02499">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.60311" lon="-83.02376">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.60286" lon="-83.02351">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.60253" lon="-83.02316">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.60243" lon="-83.02306">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.60222" lon="-83.02286">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.60152" lon="-83.02218">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.60143" lon="-83.02209">
+        <name>Lane divider marker: No divider, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.60136" lon="-83.02202">
+        <name>Lane divider marker: No divider, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.6007" lon="-83.02137">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.60028" lon="-83.02095">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.59997" lon="-83.02066">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.5996" lon="-83.02029">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.59699" lon="-83.01772">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.59581" lon="-83.01657">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.59551" lon="-83.01627">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.59537" lon="-83.01614">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.5952" lon="-83.01597">
+        <name>Lane divider marker: No divider, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.59496" lon="-83.01575">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.59477" lon="-83.01556">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.59438" lon="-83.01507">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.59406" lon="-83.0146">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.59366" lon="-83.01404">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.59345" lon="-83.01374">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.59307" lon="-83.01327">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.593" lon="-83.01317">
+        <name>Lane divider marker: No divider, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.59281" lon="-83.01291">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.59234" lon="-83.01217">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.59215" lon="-83.01184">
+        <name>Lane divider marker: Single solid line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.59196" lon="-83.01144">
+        <name>Lane divider marker: Single solid line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.59187" lon="-83.0113">
+        <name>Lane divider marker: Single solid line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.59164" lon="-83.01118">
+        <name>Lane divider marker: Single solid line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.59161" lon="-83.01098">
+        <name>Lane divider marker: Single solid line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.59141" lon="-83.01072">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.59107" lon="-83.01027">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.59088" lon="-83.01002">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.5907" lon="-83.00979">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.59057" lon="-83.00962">
+        <name>Lane divider marker: Single solid line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.59048" lon="-83.00951">
+        <name>Lane divider marker: Single solid line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.59017" lon="-83.00912">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.5901" lon="-83.00902">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.58983" lon="-83.00863">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.58975" lon="-83.0085">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.58957" lon="-83.00819">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.58917" lon="-83.00762">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.58901" lon="-83.00738">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.58846" lon="-83.00659">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.58832" lon="-83.00638">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.58801" lon="-83.00594">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.58719" lon="-83.00451">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.58677" lon="-83.00374">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.58651" lon="-83.00325">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.58575" lon="-83.00179">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.5856" lon="-83.00151">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.5851" lon="-83.00056">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.58479" lon="-82.99997">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.58466" lon="-82.99972">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.58409" lon="-82.9986">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.58387" lon="-82.99816">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.58357" lon="-82.99757">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.58307" lon="-82.99684">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.58282" lon="-82.99658">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.58227" lon="-82.99605">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.58192" lon="-82.99571">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.58175" lon="-82.99555">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.5812" lon="-82.99502">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.58074" lon="-82.99458">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.58008" lon="-82.99396">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.57959" lon="-82.99349">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.57777" lon="-82.99092">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.57745" lon="-82.99015">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.5772" lon="-82.98954">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.57706" lon="-82.9892">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.57685" lon="-82.98871">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.57646" lon="-82.98778">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.57637" lon="-82.98756">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.57624" lon="-82.98724">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.57612" lon="-82.98696">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.57569" lon="-82.9859">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.57561" lon="-82.9857">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.57552" lon="-82.98548">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.57532" lon="-82.985">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.57483" lon="-82.98378">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.57477" lon="-82.98364">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.57468" lon="-82.98342">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.5738" lon="-82.98132">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.57338" lon="-82.98029">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.57287" lon="-82.97906">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.57267" lon="-82.97856">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.57222" lon="-82.97747">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.57108" lon="-82.97474">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.57054" lon="-82.9734">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.57027" lon="-82.97275">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.57005" lon="-82.97221">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.56973" lon="-82.97161">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.56958" lon="-82.97133">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.5694" lon="-82.97099">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.56924" lon="-82.97067">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.56912" lon="-82.97043">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.56891" lon="-82.96996">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.56883" lon="-82.96977">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.56861" lon="-82.96923">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.568" lon="-82.96781">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.56782" lon="-82.96757">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.56741" lon="-82.96726">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.56723" lon="-82.96718">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.56678" lon="-82.96704">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.56655" lon="-82.96699">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.5664" lon="-82.96695">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.56575" lon="-82.96676">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.5646" lon="-82.96642">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.56445" lon="-82.96638">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.56431" lon="-82.96634">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.56331" lon="-82.96604">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.56317" lon="-82.966">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.56309" lon="-82.96598">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.56217" lon="-82.96571">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.56092" lon="-82.96524">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.56081" lon="-82.9652">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.56055" lon="-82.9651">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.56016" lon="-82.96493">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.5598" lon="-82.96475">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55974" lon="-82.96472">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55972" lon="-82.96471">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55953" lon="-82.96461">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55936" lon="-82.96453">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55896" lon="-82.96432">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55828" lon="-82.96393">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55756" lon="-82.96354">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55736" lon="-82.96343">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55694" lon="-82.96318">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55627" lon="-82.9628">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55617" lon="-82.96275">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55602" lon="-82.96266">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55526" lon="-82.96222">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55464" lon="-82.96186">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55422" lon="-82.96162">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55411" lon="-82.96156">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55395" lon="-82.96146">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55359" lon="-82.96125">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55334" lon="-82.9611">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55267" lon="-82.96071">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55256" lon="-82.96065">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55236" lon="-82.96053">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55188" lon="-82.96025">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55164" lon="-82.96011">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.5509" lon="-82.95969">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55067" lon="-82.95956">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55032" lon="-82.95936">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.55022" lon="-82.9593">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.54984" lon="-82.95908">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.54951" lon="-82.95889">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.54904" lon="-82.95863">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.54877" lon="-82.95848">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.54843" lon="-82.95828">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.54833" lon="-82.95822">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.54794" lon="-82.958">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.54767" lon="-82.95784">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.54732" lon="-82.95764">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.5464" lon="-82.95711">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.54617" lon="-82.95698">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.54582" lon="-82.95678">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.54548" lon="-82.95659">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.5452" lon="-82.95643">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.54492" lon="-82.95627">
+        <name>Lane divider marker: Single solid line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.54449" lon="-82.95603">
+        <name>Lane divider marker: Single solid line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.54415" lon="-82.95584">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.54389" lon="-82.95569">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.54342" lon="-82.95542">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.5428" lon="-82.95506">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.54273" lon="-82.95502">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.54247" lon="-82.95488">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.54203" lon="-82.95463">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.54192" lon="-82.95457">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.54135" lon="-82.95425">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.54021" lon="-82.95361">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53987" lon="-82.95342">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53953" lon="-82.95322">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.5394" lon="-82.95314">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53938" lon="-82.95313">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53923" lon="-82.95304">
+        <name>Lane divider marker: Single solid line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53903" lon="-82.95292">
+        <name>Lane divider marker: Single solid line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53887" lon="-82.95283">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53827" lon="-82.95249">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53813" lon="-82.95241">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53799" lon="-82.95233">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53787" lon="-82.95226">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53771" lon="-82.95217">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53761" lon="-82.95211">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53735" lon="-82.95196">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53729" lon="-82.95192">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53705" lon="-82.95178">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.5368" lon="-82.95163">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53601" lon="-82.95117">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53565" lon="-82.95096">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53557" lon="-82.95091">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53535" lon="-82.95078">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53518" lon="-82.95068">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53492" lon="-82.95054">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53477" lon="-82.95046">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53405" lon="-82.95004">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53383" lon="-82.94991">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.5337" lon="-82.94984">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53317" lon="-82.94952">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.5329" lon="-82.94937">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53248" lon="-82.94913">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53243" lon="-82.9491">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53185" lon="-82.94877">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.5315" lon="-82.94857">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53127" lon="-82.94844">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53112" lon="-82.94836">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53066" lon="-82.94809">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53026" lon="-82.94786">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.53012" lon="-82.94778">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52995" lon="-82.94768">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52877" lon="-82.94701">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52863" lon="-82.94693">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52819" lon="-82.94668">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52798" lon="-82.94656">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52777" lon="-82.94644">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52737" lon="-82.94621">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52721" lon="-82.94612">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.5271" lon="-82.94606">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52681" lon="-82.94589">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52667" lon="-82.94581">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52656" lon="-82.94575">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52648" lon="-82.94571">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52635" lon="-82.94563">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52626" lon="-82.94558">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52613" lon="-82.9455">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52573" lon="-82.94527">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52527" lon="-82.945">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52512" lon="-82.94492">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52497" lon="-82.94483">
+        <name>Lane divider marker: No divider, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52474" lon="-82.94469">
+        <name>Lane divider marker: No divider, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52461" lon="-82.94461">
+        <name>Lane divider marker: No divider, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52455" lon="-82.94458">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52444" lon="-82.94452">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52412" lon="-82.94433">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52394" lon="-82.94423">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52387" lon="-82.94419">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.5237" lon="-82.94409">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52361" lon="-82.94404">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52353" lon="-82.944">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52335" lon="-82.9439">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52325" lon="-82.94384">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52248" lon="-82.94341">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52235" lon="-82.94333">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52217" lon="-82.94322">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52213" lon="-82.9432">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52156" lon="-82.94286">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52138" lon="-82.94276">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52132" lon="-82.94273">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52115" lon="-82.94263">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52096" lon="-82.94253">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.52046" lon="-82.94225">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51969" lon="-82.94182">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51962" lon="-82.94178">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51946" lon="-82.94169">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51931" lon="-82.94161">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51921" lon="-82.94155">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51912" lon="-82.9415">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51891" lon="-82.94138">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51845" lon="-82.9411">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.5181" lon="-82.94089">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.5177" lon="-82.94066">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51751" lon="-82.94055">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51732" lon="-82.94044">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.5172" lon="-82.94037">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51685" lon="-82.94018">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51653" lon="-82.94">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51624" lon="-82.93984">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51507" lon="-82.93917">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51439" lon="-82.93878">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51399" lon="-82.93855">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51324" lon="-82.93811">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51301" lon="-82.93798">
+        <name>Lane divider marker: None, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51202" lon="-82.93742">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51122" lon="-82.93696">
+        <name>Lane divider marker: Short dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51084" lon="-82.93675">
+        <name>Lane divider marker: Short dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51066" lon="-82.93666">
+        <name>Lane divider marker: Short dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51057" lon="-82.93661">
+        <name>Lane divider marker: Short dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51049" lon="-82.93656">
+        <name>Lane divider marker: Inner solid, outer dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51031" lon="-82.93646">
+        <name>Lane divider marker: No divider, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51022" lon="-82.93641">
+        <name>Lane divider marker: No divider, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.51011" lon="-82.93635">
+        <name>Lane divider marker: Single solid line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.50969" lon="-82.93611">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.5097" lon="-82.93568">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.5097" lon="-82.93539">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.5097" lon="-82.93513">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.50971" lon="-82.93472">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.50974" lon="-82.9336">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.50974" lon="-82.93336">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.50975" lon="-82.93248">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.50975" lon="-82.93236">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.50977" lon="-82.93142">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.50979" lon="-82.9309">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.50981" lon="-82.92975">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.50982" lon="-82.92943">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.50983" lon="-82.92864">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.50984" lon="-82.92819">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.50984" lon="-82.92796">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.50985" lon="-82.92753">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.50986" lon="-82.92711">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.50987" lon="-82.92665">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.50988" lon="-82.92605">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.50991" lon="-82.92498">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.50992" lon="-82.92453">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.50992" lon="-82.92445">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.50993" lon="-82.9239">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.50994" lon="-82.92334">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.50996" lon="-82.92273">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.50998" lon="-82.92167">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.50998" lon="-82.92151">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.51" lon="-82.92061">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.51001" lon="-82.91987">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.51002" lon="-82.91943">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.51003" lon="-82.9188">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.51004" lon="-82.91821">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.51005" lon="-82.91777">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.51006" lon="-82.91727">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.51006" lon="-82.91706">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.51006" lon="-82.91695">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.51007" lon="-82.91678">
+        <name>Lane divider marker: Single solid line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.51007" lon="-82.91664">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.51008" lon="-82.91595">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.5101" lon="-82.91498">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.5101" lon="-82.91482">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.51012" lon="-82.91368">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.51012" lon="-82.91335">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.51014" lon="-82.91255">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.51015" lon="-82.91166">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.51015" lon="-82.91148">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.51019" lon="-82.91025">
+        <name>Lane divider marker: None, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.51019" lon="-82.90997">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.5102" lon="-82.90925">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.51021" lon="-82.90896">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.51022" lon="-82.90865">
+        <name>Lane divider marker: Long dashed line, Speed limit: 72</name>
+      </trkpt>
+      <trkpt lat="42.51023" lon="-82.90834">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.50982" lon="-82.90832">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.50972" lon="-82.90832">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.50958" lon="-82.90831">
+        <name>Lane divider marker: No divider, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.5094" lon="-82.9083">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.5091" lon="-82.90828">
+        <name>Lane divider marker: Inner dashed, outer solid line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.50902" lon="-82.90828">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.50882" lon="-82.90827">
+        <name>Lane divider marker: Long dashed line, Speed limit: 56</name>
+      </trkpt>
+      <trkpt lat="42.5083" lon="-82.90824">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.50591" lon="-82.89815">
+        <name>Lane divider marker: Long dashed line, Speed limit: 64</name>
+      </trkpt>
+      <trkpt lat="42.50547" lon="-82.89812">
+        <name>Lane divider marker: Long dashed line, Speed limit: 64</name>
+      </trkpt>
+      <trkpt lat="42.50542" lon="-82.89812">
+        <name>Lane divider marker: Long dashed line, Speed limit: 64</name>
+      </trkpt>
+      <trkpt lat="42.50532" lon="-82.89811">
+        <name>Lane divider marker: Long dashed line, Speed limit: 64</name>
+      </trkpt>
+      <trkpt lat="42.50501" lon="-82.89808">
+        <name>Lane divider marker: Long dashed line, Speed limit: 64</name>
+      </trkpt>
+      <trkpt lat="42.50476" lon="-82.89806">
+        <name>Lane divider marker: Long dashed line, Speed limit: 64</name>
+      </trkpt>
+      <trkpt lat="42.50463" lon="-82.89805">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.50451" lon="-82.89752">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.50442" lon="-82.89719">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.50434" lon="-82.89689">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.50433" lon="-82.89683">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.50419" lon="-82.89688">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.50413" lon="-82.89665">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.50392" lon="-82.89673">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.50359" lon="-82.89678">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.50341" lon="-82.89678">
+        <name>Lane divider marker: None, Speed limit: None</name>
+      </trkpt>
+      <trkpt lat="42.50321" lon="-82.89678">
+        <name>Lane divider marker: None, Speed limit: 48</name>
+      </trkpt>
+      <trkpt lat="42.50321" lon="-82.89671">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.50217" lon="-82.89666">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.50218" lon="-82.89536">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.50221" lon="-82.89407">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.50208" lon="-82.8928">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.49726" lon="-82.89262">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.49628" lon="-82.89259">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.4961" lon="-82.89258">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.49577" lon="-82.89257">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.49527" lon="-82.89256">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.4944" lon="-82.89253">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.49346" lon="-82.8925">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.49251" lon="-82.89246">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.49158" lon="-82.89241">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.49096" lon="-82.89239">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.49085" lon="-82.89239">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.4907" lon="-82.89239">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+      <trkpt lat="42.49074" lon="-82.88928">
+        <name>Lane divider marker: None, Speed limit: 40</name>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

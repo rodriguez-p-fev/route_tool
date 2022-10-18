@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Topics>
+  <Topic>
+    <GoogleMap_API_KEY>AIzaSyBwW5IM9GWwC5fPgKFYfMD6OcGd74AR-xoEEEEE</GoogleMap_API_KEY>
+    <GoogleMap_API_USE>FALSE</GoogleMap_API_USE>
+    <MQTT_Topic_Name>fevvf/route_tool_qusay</MQTT_Topic_Name>
+    <Python_Server_Path>D:\VinFast\server.py</Python_Server_Path>  
+  </Topic>
+</Topics>

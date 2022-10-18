@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FEV_routingtool", "FEV_routingtool.csproj", "{4D80A93E-3D51-47CE-B649-D77E5BE94267}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FEV ADAS Routing Tool", "FEV ADAS Routing Tool\FEV ADAS Routing Tool.vdproj", "{E78ABF34-0565-49DE-8617-126C0C4EF0C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D80A93E-3D51-47CE-B649-D77E5BE94267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D80A93E-3D51-47CE-B649-D77E5BE94267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D80A93E-3D51-47CE-B649-D77E5BE94267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D80A93E-3D51-47CE-B649-D77E5BE94267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E78ABF34-0565-49DE-8617-126C0C4EF0C2}.Debug|Any CPU.ActiveCfg = Debug
+		{E78ABF34-0565-49DE-8617-126C0C4EF0C2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C0660CE-AC02-4CF8-82FA-6F76618867BB}
+	EndGlobalSection
+EndGlobal
