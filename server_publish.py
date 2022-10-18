@@ -8,7 +8,7 @@ from time import sleep
 
 SERVER = 0
 topic = "fevvf/fevbii"
-clientID = "clientId-xMODDl314VwR-pedro-p"
+clientID = "clientId-xMODDl314VwR-fevbii-p"
 file_path = f'./config.ini'
 QOS = 2
 KEEPALIVE=60

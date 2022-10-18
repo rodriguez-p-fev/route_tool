@@ -4,7 +4,7 @@ from paho import mqtt
 
 SERVER = 0
 topic = "fevvf/fevbii"
-clientID = "clientId-xLODDl314VwO-pedro-s"
+clientID = "clientId-xLODDl314VwO-fevbii-s"
 file_path = f"./request_input.txt"
 
 if(SERVER == 0):
