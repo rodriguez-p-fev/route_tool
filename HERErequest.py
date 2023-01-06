@@ -47,7 +47,6 @@ def tileToCache(tile:tuple, layer:str, path: str, session:requests.Session=None)
             with open(cache_file_path) as json_file:
                 tile_data = json.load(json_file)
         else:
-            print("empty layer file")
             os.remove(cache_file_path)
             print(f"request data from {layer}")
             tile_data = getTileRequest(tile, layer, session)['Rows']
@@ -113,7 +112,6 @@ def checkTileFromCache(tile:tuple, layer:str, session:requests.Session=None):
             tileToFile(tile_data, tile, layer)
             return tile_data
         except:
-            print("Empty layer")
             return None
 
 def getLinksFromTile(tile: tuple, cfg: dict, session: requests.Session=None): 
@@ -369,7 +367,6 @@ def requestRoadAdminTile(links_dict: dict,  tile: tuple, session: requests.Sessi
             try:
                 link_id = layer['LINK_ID']
                 if((layer['COUNTRY_NAMES'].find('Deutschland') < 0) and (layer['COUNTRY_NAMES'].find('Nederland') < 0) and (layer['COUNTRY_NAMES'].find('Belgique') < 0)):
-                    print(layer['COUNTRY_NAMES'], layer['COUNTRY_NAMES'].find('Deutschland'))
                 links_dict[link_id]['COUNTRY'] = layer['COUNTRY_NAMES']
                 if(layer['BUILTUP_NAMES'] != None):
                     builtup = layer['BUILTUP_NAMES'][5:]
