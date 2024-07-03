@@ -7,8 +7,8 @@ import paho.mqtt.publish as publish
 from time import sleep
 
 SERVER = 0
-topic = "fevvf/pedro_l"
-clientID = "clientId-worRlEJJ0314JK-clientprivate-local-p"
+topic = "fevvf/tool_local"
+clientID = "clientId-worRlEJJ0314JK-clientprivate-local-tool"
 file_path = f'./config.ini'
 QOS = 2
 KEEPALIVE=60
