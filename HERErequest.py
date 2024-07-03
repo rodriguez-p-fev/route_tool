@@ -15,7 +15,10 @@ resource_url = {'get_specific_layer_tile':'/1/tile.json',
                 'list_available_layers':'/1/doc/layers.json'}
 
 #APP_CODE = 'jKvhe5N2sdc8kPOU0Bqw_CBEgtX2LSjds5CCTCE67q4'
-APP_CODE ='vGeMc2D8lMqb5OY39enKrjNjrEMWlOabRS2olRxc2a0'
+#APP_CODE ='vGeMc2D8lMqb5OY39enKrjNjrEMWlOabRS2olRxc2a0'
+
+APP_ID='J5L7hbdisvlZpp5352fG'
+APP_CODE='gsOQcgZGkBwebIUWRafOVrovcBOI8bOfEJr8Fqi4VWk'
 
 level_layerID_map = {9:1, 10:2, 11:3, 12:4, 13:5}
 api_usage_count = 0
@@ -77,7 +80,26 @@ def incrementApiCount():
     global api_usage_count
     api_usage_count += 1
     return None
-
+def createAttrLists():
+    attr_list = {
+        'roundabout':[],
+        'manoeuvre':[],
+        'ramp':[],
+        'tunnel':[],
+        'bridge':[],
+        'traffic_lights':[],
+        'traffic_signs':[],
+    }
+    return attr_list
+def updateAttrList(attr_list, aux_attr_list):
+    attr_list['roundabout'].extend(aux_attr_list['roundabout'])
+    attr_list['manoeuvre'].extend(aux_attr_list['manoeuvre'])
+    attr_list['ramp'].extend(aux_attr_list['ramp'])
+    attr_list['traffic_lights'].extend(aux_attr_list['traffic_lights'])
+    attr_list['traffic_signs'].extend(aux_attr_list['traffic_signs'])
+    attr_list['tunnel'].extend(aux_attr_list['tunnel'])
+    attr_list['bridge'].extend(aux_attr_list['bridge'])
+    return attr_list
 def getAPIResponse(url:str, params:dict, session: requests.Session=None):
     if not session: session = requests.Session()
     res = session.get(url , params=params)
@@ -94,14 +116,15 @@ def getTileRequest(tile:tuple, layer:str, session:requests.Session=None):
     return getAPIResponse(base_url + resource_url['get_specific_layer_tile'], params=params)
 
 def tileToFile(tileDict:dict, tile:tuple, layer:str, path = tiles_cache_path):
+    print('tile to file')
     with open(f'{path}{layer}-{tile[2]}-{tile[0]}-{tile[1]}.json', 'w+') as out_file:
         json.dump(tileDict, out_file)
     out_file.close()
     return None
 
 def checkTileFromCache(tile:tuple, layer:str, session:requests.Session=None):
-    try:
-        cache_file_path = f'{tiles_cache_path}{layer}-{tile[2]}-{tile[0]}-{tile[1]}.json'           
+    cache_file_path = f'{tiles_cache_path}{layer}-{tile[2]}-{tile[0]}-{tile[1]}.json'
+    try:          
         with open(cache_file_path) as json_file:
             tile_data = json.load(json_file)
         return tile_data
@@ -119,9 +142,9 @@ def getLinksFromTile(tile: tuple, cfg: dict, session: requests.Session=None):
     if not session: session = requests.Session() 
     links = checkTileFromCache(tile, f'LINK_FC{level_layerID_map[tile[2]]}', session)
     links_basic_attributes = checkTileFromCache(tile, f'LINK_ATTRIBUTE_FC{level_layerID_map[tile[2]]}', session)
+    adas_attributes = checkTileFromCache(tile, f'ADAS_ATTRIB_FC{level_layerID_map[tile[2]]}', session)
     links_dict = {}
-    wMax=0
-    wMin=500
+    attr_list = createAttrLists()
     if(str(links) != "None"):
         for link in links:
             links_dict[link['LINK_ID']] = {'REF_NODE_ID' : link['REF_NODE_ID'],
@@ -133,19 +156,23 @@ def getLinksFromTile(tile: tuple, cfg: dict, session: requests.Session=None):
                                            'N_ATTRIBUTES': 0}
     if(str(links_basic_attributes) != "None"):   
         for attr in links_basic_attributes:
-            links_dict,not_navigable = fillDictionary(links_dict, attr, cfg, not_navigable)
-            
+            links_dict, not_navigable, attr_list = fillDictionary(links_dict, attr, cfg, not_navigable, attr_list)
+    if(str(adas_attributes) != "None"):
+        for attr in adas_attributes:
+            link_id = attr['LINK_ID']
+            if(link_id in links_dict):
+                links_dict[link_id]['HPX'] = attr['HPX'].split(',')
+                links_dict[link_id]['HPY'] = attr['HPY'].split(',')     
     links_dict,not_navigable = requestAttributesTile(links_dict, tile, cfg['query_features'], not_navigable, session)
+    links_dict, attr_list = requestRoadGeomTile(links_dict, tile, attr_list, cfg, session)
+    links_dict, attr_list = requestSignsTile(links_dict, tile, attr_list, cfg['query_features']['sign_features'], session)
     links_dict = requestTrafficPatternTile(links_dict, tile, session)
     links_dict = requestSpeedLimitTile(links_dict, tile, session)
-    links_dict = requestSignsTile(links_dict, tile, cfg['query_features']['sign_features'], session)
     links_dict = requestRoadRoughnessTile(links_dict, tile, cfg['query_features'], session)
     links_dict = requestSpeedBumpsTile(links_dict, tile, cfg['query_features'], session)
     links_dict = requestTollBoothTile(links_dict, tile, cfg['query_features'], session)
     links_dict = requestLaneTile(links_dict, tile, cfg['query_features'], session)
-    links_dict = requestAdasTile(links_dict, tile, session)
     links_dict = requestRoadAdminTile(links_dict, tile, session)
-    links_dict = requestRoadGeomTile(links_dict, tile, cfg, session)
     setRoadTypes(links_dict, cfg)
      
     for link in not_navigable:
@@ -153,9 +180,9 @@ def getLinksFromTile(tile: tuple, cfg: dict, session: requests.Session=None):
             del links_dict[link]
         except:
             continue
-    return links_dict
+    return links_dict, attr_list
 
-def fillDictionary(links_dict, attr, query, not_navigable):
+def fillDictionary(links_dict, attr, query, not_navigable, attr_list):
     link_id = attr['LINK_ID']
     if(link_id in links_dict):
         links_dict[link_id]['ATTR_COUNT'] = 0
@@ -169,13 +196,23 @@ def fillDictionary(links_dict, attr, query, not_navigable):
         links_dict[link_id]['LOW_MOBILITY'] = int(attr['LOW_MOBILITY'])
         links_dict[link_id]['LIMITED_ACCESS_ROAD'] = attr['LIMITED_ACCESS_ROAD']
         links_dict[link_id]['PAVED'] = attr['PAVED']
-        links_dict[link_id]['RAMP'] = attr['RAMP']
+
         links_dict[link_id]['INTERSECTION'] = None
+        links_dict[link_id]['RAMP'] = attr['RAMP']
+        if(attr['RAMP'] != None): 
+            if(attr['RAMP'] == 'Y'):
+                attr_list['ramp'].append(links_dict[attr['LINK_ID']])
+        links_dict[link_id]['ROUNDABOUT'] = 'N'
+        links_dict[link_id]['MANOUVRE'] = 'N'
         if(attr['INTERSECTION_CATEGORY'] != None): 
             if(int(attr['INTERSECTION_CATEGORY']) == 2): 
                 links_dict[link_id]['INTERSECTION'] = int(attr['INTERSECTION_CATEGORY'])
+                links_dict[link_id]['MANOUVRE'] = 'Y'
+                attr_list['manoeuvre'].append(links_dict[attr['LINK_ID']])
             if(int(attr['INTERSECTION_CATEGORY']) == 4): 
                 links_dict[link_id]['INTERSECTION'] = int(attr['INTERSECTION_CATEGORY'])
+                links_dict[link_id]['ROUNDABOUT'] = 'Y'
+                attr_list['roundabout'].append(links_dict[attr['LINK_ID']])
         links_dict[link_id]['LANE_CATEGORY'] = int(attr['LANE_CATEGORY'])
         links_dict[link_id]['SPEED_CATEGORY'] = int(attr['SPEED_CATEGORY'])
         if((int(attr['FUNCTIONAL_CLASS']) == 5) or ((str(query['query_features']['boolean_features']['ramp']) == '0') and (attr['RAMP'] == 'Y')) or ((str(query['query_features']['boolean_features']['urban']) == '0') and (attr['URBAN'] == 'Y'))):
@@ -219,7 +256,7 @@ def fillDictionary(links_dict, attr, query, not_navigable):
         links_dict[link_id]['WIDTH'] = None
         links_dict[link_id]['HPX'] = []
         links_dict[link_id]['HPY'] = []
-    return links_dict, not_navigable
+    return links_dict, not_navigable, attr_list
 
 def setAttrWeight(links_dict, attributes: dict, features_query: dict, percentage = PERCENTAGE_):
     if(features_query['boolean_features']['oneway']):
@@ -312,10 +349,10 @@ def requestSpeedLimitTile(links_dict: dict,  tile: tuple, session: requests.Sess
                 continue
     return links_dict
 
-def requestSignsTile(links_dict: dict, tile: tuple, features_query: dict, session: requests.Session=None):
+def requestSignsTile(links_dict: dict, tile: tuple, attr_list, features_query: dict, session: requests.Session=None):
     links_signs_attributes = checkTileFromCache(tile, f'TRAFFIC_SIGN_FC{level_layerID_map[tile[2]]}', session)
     if(str(links_signs_attributes) != "None"):
-        for attr in links_signs_attributes:
+        for attr in links_signs_attributes: 
             try:
                 link_ids = attr['LINK_IDS'].split(',')[0]
                 if(link_ids[0] in ['-','B']):
@@ -335,7 +372,11 @@ def requestSignsTile(links_dict: dict, tile: tuple, features_query: dict, sessio
                         links_dict[link_id]['TRAFFIC_CONDITION_T'].append(int(attr['CONDITION_TYPE']))
                     else:
                         links_dict[link_id]['TRAFFIC_CONDITION_F'].append(int(attr['CONDITION_TYPE']))
-                        links_dict[link_id]['TRAFFIC_CONDITION_T'].append(int(attr['CONDITION_TYPE']))                    
+                        links_dict[link_id]['TRAFFIC_CONDITION_T'].append(int(attr['CONDITION_TYPE']))   
+                    if(int(attr['CONDITION_TYPE']) == 16):
+                        attr_list['traffic_lights'].append(links_dict[link_id]) 
+                    if(int(attr['CONDITION_TYPE']) == 17):
+                        attr_list['traffic_signs'].append(links_dict[link_id])                
                 if(attr['TRAFFIC_SIGN_TYPE'] != None):
                     if(sign_dir == 'F'):
                         links_dict[link_id]['TRAFFIC_SIGNS_F'].append(int(attr['TRAFFIC_SIGN_TYPE']))
@@ -347,7 +388,7 @@ def requestSignsTile(links_dict: dict, tile: tuple, features_query: dict, sessio
                 setSignsWeight(links_dict[link_id], attr, features_query)
             except:
                 continue
-    return links_dict
+    return links_dict, attr_list
 
 def setSignsWeight(links_dict, attributes: dict, features_query: dict, percentage = PERCENTAGE_):
     if(attributes['CONDITION_TYPE'] != None):
@@ -367,7 +408,7 @@ def requestRoadAdminTile(links_dict: dict,  tile: tuple, session: requests.Sessi
             try:
                 link_id = layer['LINK_ID']
                 if((layer['COUNTRY_NAMES'].find('Deutschland') < 0) and (layer['COUNTRY_NAMES'].find('Nederland') < 0) and (layer['COUNTRY_NAMES'].find('Belgique') < 0)):
-                links_dict[link_id]['COUNTRY'] = layer['COUNTRY_NAMES']
+                    links_dict[link_id]['COUNTRY'] = layer['COUNTRY_NAMES']
                 if(layer['BUILTUP_NAMES'] != None):
                     builtup = layer['BUILTUP_NAMES'][5:]
                     if(builtup.find("BN") > 0):
@@ -536,7 +577,7 @@ def requestAdasTile(links_dict: dict, tile: tuple, session: requests.Session=Non
                 continue
     return links_dict
 
-def requestRoadGeomTile(links_dict: dict,  tile: tuple, cfg: dict, session: requests.Session=None):
+def requestRoadGeomTile(links_dict: dict,  tile: tuple, attr_list, cfg: dict, session: requests.Session=None):
     road_geom = checkTileFromCache(tile, f'ROAD_GEOM_FC{level_layerID_map[tile[2]]}', session)
     if(str(road_geom) != "None"):
         for geom in road_geom:
@@ -544,7 +585,11 @@ def requestRoadGeomTile(links_dict: dict,  tile: tuple, cfg: dict, session: requ
                 link_id = geom['LINK_ID']   
                 links_dict[link_id]['STREET_NAME'] = geom['NAME']
                 links_dict[link_id]['TUNNEL'] = geom['TUNNEL']
+                if(geom['TUNNEL'] == 'Y'):
+                    attr_list['tunnel'].append(links_dict[link_id])
                 links_dict[link_id]['BRIDGE'] = geom['BRIDGE']
+                if(geom['BRIDGE'] == 'Y'):
+                    attr_list['bridge'].append(links_dict[link_id])
                 if(geom['NAME'] != None):
                     if(links_dict[link_id]['COUNTRY'].find('Deutschland') >= 0):
                         if((geom['NAME'].find("A") == 0) and (int(geom['NAME'][1]) in [0,1,2,3,4,5,6,7,8,9])):
@@ -602,7 +647,7 @@ def requestRoadGeomTile(links_dict: dict,  tile: tuple, cfg: dict, session: requ
                 setRoadGeomWeight(links_dict[link_id], geom, cfg['query_features'])
             except:
                 continue
-    return links_dict
+    return links_dict, attr_list
 
 def setRoadGeomWeight(links_dict, attributes: dict, features_query: dict, percentage = PERCENTAGE_):
     if(features_query['boolean_features']['highway']):

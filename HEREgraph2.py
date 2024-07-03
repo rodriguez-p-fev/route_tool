@@ -26,10 +26,10 @@ def graphFromDict(links_dict: dict):
             link_direction = attr['TRAVEL_DIRECTION']
             ref_node_id = int(attr['REF_NODE_ID'])
             nonref_node_id = int(attr['NONREF_NODE_ID'])
-            lat = attr['LAT'].split(',')
-            lon = attr['LON'].split(',')
-            if(len(lat) > 2):
-                print(len(lat),len(lon))
+            lat = attr['HPY']
+            lon = attr['HPX']
+            #if(len(lat) > 2):
+            #    print(len(lat),len(lon))
             if link_direction == 'B':
                 attr['EDGE_DIRECTION'] = 'F'
                 g.add_edge(ref_node_id, nonref_node_id, int(link_id), **attr)
@@ -41,9 +41,9 @@ def graphFromDict(links_dict: dict):
             if link_direction == 'T':
                 attr['EDGE_DIRECTION'] = 'T'
                 g.add_edge(nonref_node_id, ref_node_id, int(link_id), **attr)
-            g.add_node(ref_node_id, LOC=(int(lat[0])/(10.0**5),int(lon[0])/(10.0**5)))
-            #for i in range(1,len(lat)):
-            g.add_node(nonref_node_id, LOC=((int(lat[0])+int(lat[1]))/(10.0**5), (int(lon[0])+int(lon[1]))/(10.0**5))) 
+            g.add_node(ref_node_id, LOC=(int(lat[0])/(10.0**7),int(lon[0])/(10.0**7)))
+            for i in range(1,len(lat)):
+                g.add_node(nonref_node_id, LOC=((int(lat[0])+int(lat[i]))/(10.0**7), (int(lon[0])+int(lon[i]))/(10.0**7))) 
         except:
             drop_ids.append(link_id)                          
     return g

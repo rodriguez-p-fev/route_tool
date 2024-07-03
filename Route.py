@@ -85,7 +85,7 @@ class Route:
     def auxRoute(self, G, start_loc, end_loc):
         start_node_distances = []
         end_node_distances = []
-        #signs = getSigns(G)
+        signs = getSigns(G)
         for s in signs:
             d1 = Haversine(s[1],start_loc)
             d2 = Haversine(s[2],end_loc)
@@ -505,7 +505,7 @@ class Route:
             'via':gps_list[1:-2],
             'return':'polyline,summary,actions,instructions,routeHandle'
         }
-        session: session = requests.Session()
+        session = requests.Session()
         res = session.get(url, params=params)
         sleep(0.5)
         json_string = json.loads(res.content)

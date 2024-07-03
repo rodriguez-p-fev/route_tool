@@ -5,8 +5,8 @@ import time
 import os
 from Config import cfg
 from Tools import removeGPXFiles, Haversine, getRandomLocation
-from HERErequest import  getTiles, getChargingStationsList
-from HEREgraph2 import graphFromTileList
+from HERErequest import  getTiles, getChargingStationsList, createAttrLists, updateAttrList, getLinksFromTile
+from HEREgraph2 import HEREgraph, graphFromTileList, graphFromDict
 from Route import Route, getSigns
 from resources import feature_dict
 import tracemalloc
@@ -17,8 +17,8 @@ session = requests.Session()
 
 N_ROUTES = cfg.get('routes_number')
 s_tiles = getTiles(cfg.get('gps_locations'),13, 13)
-chargingStations = getChargingStationsList(s_tiles, session)
-
+#chargingStations = getChargingStationsList(s_tiles, session)
+chargingStations = []
 def createCSVFile():
     features_file_name = f"./temp/summary.csv"
     head = ",".join([str(item) for item in feature_dict])
@@ -40,50 +40,97 @@ if __name__ == '__main__':
     start_time_01 = time.time()
     tiles = getTiles(cfg.get('gps_locations'),9, 13)
     end_time_01 = time.time()
-    print("Get tiles time: ",end_time_01/3600)
+    tiles_time = end_time_01 - start_time_01
+    print("Get tiles time: ",tiles_time/3600)
 
     start_time_02 = time.time()
-    g = graphFromTileList(tiles, cfg, session) 
+    if not session: session = requests.Session()
+    attr_list = createAttrLists()
     
-    g.saveEdgesToNumpy()
-    g.saveNodesToNumpy()
-    end_time_02 = time.time()/3600.0
-    print("Graph time: ",end_time_02)
-    
+    #g = graphFromTileList(tiles, cfg, session) 
+    ng = HEREgraph()
+    for tile in tiles:
+        links, aux_attr_list = getLinksFromTile(tile, cfg, session)
+        attr_list = updateAttrList(attr_list, aux_attr_list)
+        new_graph = graphFromDict(links)
+        ng.updateGraph(new_graph)
+
+    ng.saveEdgesToNumpy()
+    ng.saveNodesToNumpy()
+    end_time_02 = time.time()
+    graph_time = end_time_02 - start_time_02
+    print("Graph time: ",graph_time/3600.0)
+    print('Roundabout: ',len(attr_list['roundabout']))
+    print('Manoeuvre: ',len(attr_list['manoeuvre']))
+    print('Ramps: ',len(attr_list['ramp']))
+    print('Tunnels: ',len(attr_list['tunnel']))
+    print('Bridges: ',len(attr_list['bridge']))
+    print('traffic_lights: ',len(attr_list['traffic_lights']))
+    print('traffic_signs: ',len(attr_list['traffic_signs']))
     
     start_time_03 = time.time()
-    start_node, _ = g.findNodeFromCoord(cfg.get('start_location'))
+    start_node, _ = ng.findNodeFromCoord(cfg.get('start_location'))
 
     if(cfg.get('route_type') == 'point_to_anywhere'):
         end_loc = getRandomLocation(cfg.get('start_location'), cfg.get('desired_route_length'))
-        end_node, _ = g.findNodeFromCoord(end_loc)
+        end_node, _ = ng.findNodeFromCoord(end_loc)
     else:
-        end_node, _ = g.findNodeFromCoord(cfg.get('end_location'))
+        end_node, _ = ng.findNodeFromCoord(cfg.get('end_location'))
     mid_nodes = []
     for loc in cfg.get('mid_locations'):
-        mid_n, _ = g.findNodeFromCoord(loc)
+        mid_n, _ = ng.findNodeFromCoord(loc)
         mid_nodes.append(mid_n)
 
     routes_list = list()
-    i = 0
-        
+    
+    for i in range(min(cfg.get('query_features')['boolean_features']['manoeuvre'],len(attr_list['manoeuvre']))):
+        loc = (int(attr_list['manoeuvre'][i]['LAT'].split(',')[0])*0.00001,int(attr_list['manoeuvre'][i]['LON'].split(',')[0])*0.00001)
+        mid_n, _ = ng.findNodeFromCoord(loc)
+        mid_nodes.append(mid_n)
+    for i in range(min(cfg.get('query_features')['boolean_features']['roundabout'],len(attr_list['roundabout']))):
+        loc = (int(attr_list['roundabout'][i]['LAT'].split(',')[0])*0.00001,int(attr_list['roundabout'][i]['LON'].split(',')[0])*0.00001)
+        mid_n, _ = ng.findNodeFromCoord(loc)
+        mid_nodes.append(mid_n)
+    for i in range(min(cfg.get('query_features')['boolean_features']['ramp'],len(attr_list['ramp']))):
+        loc = (int(attr_list['ramp'][i]['LAT'].split(',')[0])*0.00001,int(attr_list['ramp'][i]['LON'].split(',')[0])*0.00001)
+        mid_n, _ = ng.findNodeFromCoord(loc)
+        mid_nodes.append(mid_n)
+    for i in range(min(cfg.get('query_features')['boolean_features']['traffic_sign'],len(attr_list['traffic_signs']))):
+        loc = (int(attr_list['traffic_signs'][i]['LAT'].split(',')[0])*0.00001,int(attr_list['traffic_signs'][i]['LON'].split(',')[0])*0.00001)
+        mid_n, _ = ng.findNodeFromCoord(loc)
+        mid_nodes.append(mid_n)
+    for i in range(min(cfg.get('query_features')['boolean_features']['tunnel'],len(attr_list['tunnel']))):
+        loc = (int(attr_list['tunnel'][i]['LAT'].split(',')[0])*0.00001,int(attr_list['tunnel'][i]['LON'].split(',')[0])*0.00001)
+        mid_n, _ = ng.findNodeFromCoord(loc)
+        mid_nodes.append(mid_n)
+    for i in range(min(cfg.get('query_features')['boolean_features']['bridge'],len(attr_list['bridge']))):
+        loc = (int(attr_list['bridge'][i]['LAT'].split(',')[0])*0.00001,int(attr_list['bridge'][i]['LON'].split(',')[0])*0.00001)
+        mid_n, _ = ng.findNodeFromCoord(loc)
+        mid_nodes.append(mid_n)
+    print(cfg.get('query_features')['boolean_features']['manoeuvre'])
+    print(cfg.get('query_features')['boolean_features']['roundabout'])
+    print(cfg.get('query_features')['boolean_features']['traffic_light'])
+    print(cfg.get('query_features')['boolean_features']['traffic_sign'])
+    print(cfg.get('query_features')['boolean_features']['tunnel'])
+    print(cfg.get('query_features')['boolean_features']['bridge'])
+
     dtype = [('route', int), ('points', int)]
     values = []
+    i = 0
     while(i < N_ROUTES):
         route_bool = False
-        print(f"Route number {i}")
         route = Route(cfg.get('desired_route_length_km'),chargingStations, int(cfg.get('visit_charge_station')))
         while(route_bool == False):
             #try:
-            route.setRoute(g, start_node, end_node, mid_nodes)
+            route.setRoute(ng, start_node, end_node, mid_nodes)
             route_bool = True
             #except:
             #    print("except route")
             #    end_loc = getRandomLocation(cfg.get('start_location'), cfg.get('desired_route_length'))
             #    end_node, _ = g.findNodeFromCoord(end_loc)
         
-        route.setGPXFile(g, i, "./temp", cfg)       
-        route.setCSVFeatures(g, i, units=cfg.get('units'))
+        route.setGPXFile(ng, i, "./temp", cfg)       
+        route.setCSVFeatures(ng, i, units=cfg.get('units'))
         rank_points = route.getRankPoints()
         values.append((i,rank_points))
         i+=1
@@ -121,7 +168,8 @@ if __name__ == '__main__':
   
     end_time = time.time()
     total_time = end_time - start_time
-    tiles_time = end_time_01 - start_time_01
-    graph_time = end_time_02 - start_time_02
+    
+    
     route_time = end_time_03 - start_time_03
     tracemalloc.stop()
+

@@ -204,7 +204,7 @@ else:
         #Lane markers
         lane_markers = []
         if(cfgParser.getint('config', 'lane_marker_no_marker')):
-            lane_type.append(0)
+            lane_markers.append(0)
         if(cfgParser.getint('config', 'lane_marker_long_dashed')):
             lane_markers.append(1)
         if(cfgParser.getint('config', 'lane_marker_short_dashed')):
