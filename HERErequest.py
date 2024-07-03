@@ -17,8 +17,11 @@ resource_url = {'get_specific_layer_tile':'/1/tile.json',
 #APP_CODE = 'jKvhe5N2sdc8kPOU0Bqw_CBEgtX2LSjds5CCTCE67q4'
 #APP_CODE ='vGeMc2D8lMqb5OY39enKrjNjrEMWlOabRS2olRxc2a0'
 
-APP_ID='J5L7hbdisvlZpp5352fG'
-APP_CODE='gsOQcgZGkBwebIUWRafOVrovcBOI8bOfEJr8Fqi4VWk'
+#APP_ID='J5L7hbdisvlZpp5352fG'
+#APP_CODE='gsOQcgZGkBwebIUWRafOVrovcBOI8bOfEJr8Fqi4VWk'
+
+APP_ID='oW0elLYScu643Yfpmra5'
+APP_CODE='DPIbhVkvYMH4mYAfFn-wD5IUkQliVM2KjqFg9xLtzPY'
 
 level_layerID_map = {9:1, 10:2, 11:3, 12:4, 13:5}
 api_usage_count = 0
