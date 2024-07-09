@@ -20,8 +20,20 @@ resource_url = {'get_specific_layer_tile':'/1/tile.json',
 #APP_ID='J5L7hbdisvlZpp5352fG'
 #APP_CODE='gsOQcgZGkBwebIUWRafOVrovcBOI8bOfEJr8Fqi4VWk'
 
-APP_ID='oW0elLYScu643Yfpmra5'
-APP_CODE='DPIbhVkvYMH4mYAfFn-wD5IUkQliVM2KjqFg9xLtzPY'
+#APP_ID='oW0elLYScu643Yfpmra5'
+#APP_CODE='DPIbhVkvYMH4mYAfFn-wD5IUkQliVM2KjqFg9xLtzPY'
+
+#APP_ID='h4UFFhOYiVH53qmMoOmK'
+#APP_CODE='Z7tFsOlEOI-xlyTqdfrpA2HfjytlvP-QkaNAptA9GhE'
+
+#APP_ID='rARl6aisU6ly3Ir6xJ31'
+#APP_CODE='UrpOI-XDeYwgVng_I2OC49CTWmLJ_XpNKOMq7GTDpkk'
+
+#APP_ID='F3Y5MPIYMNfMS0hSwoHl'
+#APP_CODE='yPNEg7c9wZxo7xnCfPR8y9pPEv5f2sC-kXFtvAqrbTQ'
+
+APP_ID='jExkfN0j2cYrVJq7WZO4'
+APP_CODE='akfEWwDKWj7j2kiBU8TX-eY4BtY5aSg61XMpu9OB90M'
 
 level_layerID_map = {9:1, 10:2, 11:3, 12:4, 13:5}
 api_usage_count = 0
