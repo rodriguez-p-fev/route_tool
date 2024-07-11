@@ -11,6 +11,8 @@ validation_file_path = f'./input_validation.py'
 download_file_path = f'./download.py'
 main_file_path = f'./route_main.py'
 
+N_REQUESTS = 0
+REQUESTS_LIMIT = 2
 
 if __name__ == '__main__':
     if(DOWNLOAD):
@@ -23,4 +25,6 @@ if __name__ == '__main__':
             time.sleep(1)
             subprocess.run(f'python3 {publish_file_path}',shell=True)
             time.sleep(0.5)
-            #LOOP=False
+            N_REQUESTS += 1
+            if(N_REQUESTS > REQUESTS_LIMIT):
+                LOOP=False

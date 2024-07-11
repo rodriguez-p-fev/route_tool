@@ -110,12 +110,6 @@ if __name__ == '__main__':
         loc = (int(attr_list['bridge'][i]['LAT'].split(',')[0])*0.00001,int(attr_list['bridge'][i]['LON'].split(',')[0])*0.00001)
         mid_n, _ = ng.findNodeFromCoord(loc)
         mid_nodes.append(mid_n)
-    print(cfg.get('query_features')['boolean_features']['manoeuvre'])
-    print(cfg.get('query_features')['boolean_features']['roundabout'])
-    print(cfg.get('query_features')['boolean_features']['traffic_light'])
-    print(cfg.get('query_features')['boolean_features']['traffic_sign'])
-    print(cfg.get('query_features')['boolean_features']['tunnel'])
-    print(cfg.get('query_features')['boolean_features']['bridge'])
 
     dtype = [('route', int), ('points', int)]
     values = []
