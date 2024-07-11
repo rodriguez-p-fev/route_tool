@@ -16,7 +16,7 @@ session = requests.Session()
 #UPDATED_CODE_01062022
 
 N_ROUTES = cfg.get('routes_number')
-ROUTES_LIMIT = 15
+ROUTES_LIMIT = 5
 if(N_ROUTES > ROUTES_LIMIT):
     N_ROUTES = ROUTES_LIMIT
 s_tiles = getTiles(cfg.get('gps_locations'),13, 13)
